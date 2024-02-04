@@ -1,0 +1,3 @@
+INSERT INTO Customers(customer_id, first_name, last_name, age, country)
+VALUES
+(1, 'Santosh', 'Mehta', 23, 'NEPAL');
